@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "172341413",
+    "project_id": "htniot",
+    "storage_bucket": "htniot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172341413:android:3100c82409a48d13bd754c",
+        "android_client_info": {
+          "package_name": "com.example.minhtuan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172341413-tjr4ko67gk17ssgrlv1cpe4bj3dl6c5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minhtuan",
+            "certificate_hash": "ac7c9ce0eebf3f08adad48e68350ee2433439409"
+          }
+        },
+        {
+          "client_id": "172341413-15uib2um3553oi35pbujq3737db9sj4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Wwkrtvt93-8ACSLI-jv3HSGjEi_E3lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172341413-15uib2um3553oi35pbujq3737db9sj4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

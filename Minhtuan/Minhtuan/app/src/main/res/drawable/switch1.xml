@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#00FF0A"/>
+            <size android:width="36dp"
+                android:height="36dp"/>
+            <corners android:radius="18dp"/>
+            <stroke android:width="2dp" android:color="#01BA08"/>
+        </shape>
+    </item>
+
+    <item android:state_checked="false">
+        <shape android:shape="rectangle">
+            <solid android:color="#AEAEAE"/>
+            <size android:width="36dp"
+                android:height="36dp"/>
+            <corners android:radius="18dp"/>
+            <stroke android:width="2dp" android:color="#959393"/>
+        </shape>
+    </item>
+</selector>
